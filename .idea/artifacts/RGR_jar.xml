@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RGR:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RGR_jar</output-path>
+    <root id="archive" name="RGR.jar">
+      <element id="module-output" name="RGR" />
+    </root>
+  </artifact>
+</component>
